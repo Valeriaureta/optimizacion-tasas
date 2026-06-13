@@ -2,7 +2,7 @@
 
 > Caso de Pricing Analytics aplicado a créditos vehiculares aprobados. El proyecto estima la probabilidad de aceptación de una oferta, simula distintos niveles de APR/TEA y propone una tasa óptima por perfil, conectando la decisión de pricing con una matriz accionable para CRM/campañas.
 
-**Autor(a):** Valeria Thais Ureta Llanque
+**Autor(a):** Valeria Thais Ureta Llanque  
 **Stack:** Python 3.12 | pandas | numpy | statsmodels | scikit-learn | matplotlib | plotly | openpyxl
 
 ---
