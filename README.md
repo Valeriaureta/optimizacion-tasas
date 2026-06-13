@@ -108,7 +108,6 @@ La matriz visual permite clasificar segmentos en cuatro cuadrantes:
 La siguiente matriz resume la priorización de segmentos según probabilidad esperada de aceptación y profit aproximado:
 
 ![Matriz visual de priorización](matriz_priorizacion.png)
-```
 
 ---
 
