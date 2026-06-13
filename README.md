@@ -50,7 +50,7 @@ Este proyecto no modela aprobación crediticia, default ni pérdida esperada. El
 ├── requirements.txt
 ├── README.md
 └── assets/
-    └── matriz_visual_pricing.png                 # Imagen de la matriz visual de priorización
+    └── matriz_priorizacion.png                 # Imagen de la matriz visual de priorización
 ```
 
 ---
