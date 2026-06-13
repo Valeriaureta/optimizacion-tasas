@@ -47,10 +47,9 @@ Este proyecto no modela aprobación crediticia, default ni pérdida esperada. El
 ├── optimizacion_tasas.ipynb                    # Notebook principal: EDA, modelo de propensión y optimización de tasa
 ├── AutoLoanData.csv                            # Dataset original
 ├── output_pricing.xlsx                         # Output accionable para Pricing y CRM
+├── matriz_priorizacion.png                     # Imagen de la matriz visual de priorización
 ├── requirements.txt
-├── README.md
-└── assets/
-    └── matriz_priorizacion.png                 # Imagen de la matriz visual de priorización
+└── README.md
 ```
 
 ---
@@ -106,10 +105,8 @@ La matriz visual permite clasificar segmentos en cuatro cuadrantes:
 
 ### Matriz visual de priorización
 
-> Inserta aquí la imagen exportada de tu Excel o una captura de la matriz visual.
-
 ```markdown
-![Matriz visual de priorización](assets/matriz_visual_pricing.png)
+![Matriz visual de priorización](matriz_priorizacion.png)
 ```
 
 ---
