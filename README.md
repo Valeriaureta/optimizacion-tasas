@@ -34,7 +34,7 @@ Riesgos → Pricing → CRM / Campañas
 
 * **Riesgos** aporta variables asociadas al perfil del cliente, como score, nivel de riesgo, monto y plazo aprobado.
 * **Pricing** utiliza esa información para definir una tasa APR/TEA que equilibre aceptación y rentabilidad esperada aproximada.
-* **CRM/canales** podrían usar el output final para priorizar pilotos, campañas o acciones diferenciadas por segmento.
+* **CRM/canales** usan el output final para priorizar pilotos, campañas o acciones diferenciadas por segmento.
 
 Este proyecto no modela aprobación crediticia, default ni pérdida esperada. El análisis parte de solicitudes ya aprobadas y se enfoca en la aceptación de la tasa ofrecida.
 
